@@ -40,7 +40,13 @@ The system follows a client-server architecture:
 
 ## Screenshots
 
-*Coming soon*
+| Feature | Screenshot |
+|---------|------------|
+| **Domain Management** | ![Domains](./domains.png) |
+| **Customer Management** | ![Customers](./customers.png) |
+| **DNS Management** | ![DNS Zones](./dns.png) |
+| **DNS Records** | ![DNS Records](./dnsrecords.png) |
+| **Domain Registration** | ![Register Domain](./registerdomain.png) |
 
 ## Installation
 
@@ -54,8 +60,8 @@ The system follows a client-server architecture:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/hichamelhafedhh/openprovider-domain-management.git
-   cd openprovider-domain-management/backend
+   git clone https://github.com/hichamdotpage/op-react-rust.git
+   cd op-react-rust/backend
    ```
 
 2. Create a `.env` file with your Openprovider credentials:
