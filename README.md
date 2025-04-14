@@ -191,9 +191,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Hicham El Hafed - [@hichamelhafedhh](https://github.com/hichamelhafedhh) - hicham.elhafed@example.com
-
-Project Link: [https://github.com/hichamelhafedhh/openprovider-domain-management](https://github.com/hichamelhafedhh/openprovider-domain-management)
+[Hicham El Hafed](https://www.linkedin.com/in/hichamelhafed/) - hicham@openprovider.com
 
 ## Acknowledgements
 
